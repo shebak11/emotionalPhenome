@@ -1,3 +1,6 @@
+*.zip
+my_BRAINnet_data_with_cluster_labels.csv
+
 # project-related data
 data/*
 .DS*
