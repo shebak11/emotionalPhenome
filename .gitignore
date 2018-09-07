@@ -1,5 +1,9 @@
 *.zip
 my_BRAINnet_data_with_cluster_labels.csv
+embeddings/
+modelstate/
+trvaltest/
+
 
 # project-related data
 data/*
